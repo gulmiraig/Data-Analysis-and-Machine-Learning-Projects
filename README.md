@@ -2,7 +2,7 @@
 
 Here you can find my projects. 
 
-1. Linear Regression Model / Boston House Price Kaggle Dataset / 
+## 1. Linear Regression Model / Boston House Price Kaggle Dataset / 
 
 **Predicting change in house price according to change in house features.**
 
