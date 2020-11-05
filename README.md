@@ -8,20 +8,20 @@ Here you can find my projects.
 
 2. Logistic Regression Model / Advertising Dataset / 
 
-**Predicting whether or not user will click on an ad based off the features of that user).**
+## **Predicting whether or not user will click on an ad based off the features of that user).**
 
 3. Decision Tree and Random Forest Model / Dataset from LendingClub /
 
-**Predicting whether or not the borrower paid back their loan in full.** 
+## **Predicting whether or not the borrower paid back their loan in full.** 
 
 4. Support Vector Machines Model / Iris Dataset / 
 
-**Determining species of Iris based on its four features: the length and the width of the sepals and petals.**
+## **Determining species of Iris based on its four features: the length and the width of the sepals and petals.**
 
 5. NLP Model / Yelp Review Kaggle Dataset / 
 
-**Classification Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.**
+## **Classification Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.**
 
 6. KMeans Clustering Model / College_Data / 
 
-**Clustering  Universities into to two groups, Private and Public.**
+## **Clustering  Universities into to two groups, Private and Public.**
