@@ -8,11 +8,11 @@ Here you can find my projects.
 
 2. Logistic Regression Model / Advertising Dataset / 
 
-## **Predicting whether or not user will click on an ad based off the features of that user).**
+## **Predicting whether or not user will click on an ad based off the features of that user.**
 
 3. Decision Tree and Random Forest Model / Dataset from LendingClub /
 
-## **Predicting whether or not the borrower paid back their loan in full.** 
+## **Predicting whether or not the borrower will pay back their loan in full.** 
 
 4. Support Vector Machines Model / Iris Dataset / 
 
