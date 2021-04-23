@@ -18,12 +18,8 @@ Here you can find my projects.
 
 ## **Determining species of Iris based on its four features: the length and the width of the sepals and petals.**
 
-5. NLP Model / Yelp Review Kaggle Dataset / 
-
-## **Classification Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.**
-
-6. KMeans Clustering Model / College_Data / 
+5. KMeans Clustering Model / College_Data / 
 
 ## **Clustering  Universities into to two groups, Private and Public.**
 
-7. 911 Calls Data Analysis Project
+6. 911 Calls Data Analysis Project
