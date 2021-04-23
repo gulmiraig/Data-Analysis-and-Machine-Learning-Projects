@@ -16,7 +16,7 @@
 
 5. Linear Regression Model / Fake Ecommerce Data / 
 
-## ** Helping company to find out insights from data and make appropriate decision.**
+## **Helping company to find out insights from data and make appropriate decision.**
 
 6. Logistic Regression Model / Advertising Dataset / 
 
